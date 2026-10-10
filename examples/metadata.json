@@ -1,0 +1,10 @@
+{
+  "framework": "python-stdlib",
+  "dataset_ref": "synthetic-linear-dataset-v1",
+  "code_ref": "examples/demo.py (tutorial; replace with commit or content hash)",
+  "environment_ref": "requirements.txt (tutorial; replace with content hash)",
+  "description": "Model y = 2*x + 1",
+  "metrics": {"mae": 0.0},
+  "parameters": {"method": "least_squares"},
+  "tags": ["tutorial", "synthetic"]
+}
